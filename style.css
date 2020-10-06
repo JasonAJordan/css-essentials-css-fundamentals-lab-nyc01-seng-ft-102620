@@ -33,7 +33,7 @@ body {
   background-color: crimson; 
   color: black;
   float: left;
-  width: 24%;
+  width: 25%;
 }
 
 
@@ -47,3 +47,11 @@ body {
 .details div:hover{
   background-color: white;
 }
+
+div{  
+  background-color: crimson; 
+  color: black;
+  float: left;
+  width: 25%;
+}
+
