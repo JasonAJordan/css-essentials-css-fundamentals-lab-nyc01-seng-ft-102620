@@ -37,13 +37,13 @@ body {
 }
 
 
-#div{
+.details div{
     padding: 16px;
     text-align: center;
     border-bottom: 2px solid black;
     transition: background-color 0.4s;
     float: left;
 }
-#div:hover{
+.details div:hover{
   background-color: white;
 }
