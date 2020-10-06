@@ -31,7 +31,12 @@ body {
 .details{
   background-color: crimson; 
 }
-
+.details {
+    padding: 0px;
+    list-style-type: none;
+    margin: 0px;
+    font-size: 0px;
+}
 
 .details div{
     padding: 16px;
