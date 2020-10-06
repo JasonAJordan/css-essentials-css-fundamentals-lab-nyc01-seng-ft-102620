@@ -41,5 +41,5 @@ body {
     transition: background-color 0.4s;
 }
 .details div:hover{
-  background-color: black;
+  background-color: white;
 }
