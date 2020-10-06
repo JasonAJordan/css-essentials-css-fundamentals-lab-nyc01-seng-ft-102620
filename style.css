@@ -51,7 +51,7 @@ body {
 div{  
   background-color: crimson; 
   color: black;
-  float: left + 2px;
+  float: left; 2px;
   width: 24%;
   transition:background-color 0.4s;
   border-top: 2px solid black;
