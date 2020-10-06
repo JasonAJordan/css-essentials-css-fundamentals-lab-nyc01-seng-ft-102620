@@ -54,6 +54,7 @@ div{
   float: left;
   width: 25%;
   transition:background-color 0.4s;
+  border-bottom: 2px solid black;
 }
 div:hover{
   background-color: white;
