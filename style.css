@@ -31,6 +31,7 @@ body {
 .details{
   background-color: crimson; 
   color: black;
+  float: left;
 }
 
 
