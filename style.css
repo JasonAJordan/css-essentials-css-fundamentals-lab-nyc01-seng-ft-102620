@@ -38,7 +38,7 @@ body {
     font-size: 0px;
 }
 
-.details {
+.details div{
     padding: 16px;
     text-align: center;
     font-size: 1.2rem;
