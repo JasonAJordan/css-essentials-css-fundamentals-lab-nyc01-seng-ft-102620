@@ -26,7 +26,12 @@ body {
   margin-right: auto;
   width: 50%;
   text-align: center;
+  
+}
+
+.center a {
   padding: 10px;
+  background-color: grey;
 }
 
 .details{
