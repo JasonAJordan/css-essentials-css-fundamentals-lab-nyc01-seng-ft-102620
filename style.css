@@ -41,7 +41,6 @@ body {
 .details div{
     padding: 16px;
     text-align: center;
-    font-size: 1.2rem;
     border-bottom: 2px solid black;
     transition: background-color 0.4s;
 }
