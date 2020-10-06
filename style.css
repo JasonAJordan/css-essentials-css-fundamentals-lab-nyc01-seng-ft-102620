@@ -53,5 +53,8 @@ div{
   color: black;
   float: left;
   width: 25%;
+  text-align: center;
+  border-bottom: 2px solid black;
+  transition: background-color 0.4s;
 }
 
