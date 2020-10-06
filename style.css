@@ -52,6 +52,7 @@ div{
   background-color: crimson; 
   color: black;
   float: left;
+  text-align: center;
   width: 25%;
   outline: 2px;
   transition:background-color 0.4s;
